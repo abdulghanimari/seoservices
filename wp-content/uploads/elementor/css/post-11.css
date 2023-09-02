@@ -1,0 +1,17 @@
+.elementor-11 .elementor-element.elementor-element-7ca3555:not(.elementor-motion-effects-element-type-background), .elementor-11 .elementor-element.elementor-element-7ca3555 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-f77dc53 );}.elementor-11 .elementor-element.elementor-element-7ca3555{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:50px;margin-bottom:50px;}.elementor-11 .elementor-element.elementor-element-7ca3555 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-11 .elementor-element.elementor-element-326a82f.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-11 .elementor-element.elementor-element-326a82f.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-11 .elementor-element.elementor-element-e491e42{text-align:center;}.elementor-11 .elementor-element.elementor-element-e491e42 .elementor-heading-title{color:var( --e-global-color-9096294 );font-family:"Poppins", Sans-serif;font-weight:700;text-transform:uppercase;}.elementor-11 .elementor-element.elementor-element-8fbd1ec:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-11 .elementor-element.elementor-element-8fbd1ec > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-f77dc53 );}.elementor-11 .elementor-element.elementor-element-8fbd1ec > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-11 .elementor-element.elementor-element-8fbd1ec > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-11 .elementor-element.elementor-element-24af08d{width:100%;max-width:100%;}@media(min-width:768px){.elementor-11 .elementor-element.elementor-element-326a82f{width:26.917%;}.elementor-11 .elementor-element.elementor-element-8fbd1ec{width:41.998%;}.elementor-11 .elementor-element.elementor-element-1c8c6e3{width:30.749%;}}/* Start custom CSS for shortcode, class: .elementor-element-24af08d */#wpforms-739-field_0{
+    border-radius: 30px;
+}
+
+#wpforms-739-field_1{
+    border-radius: 30px;
+}
+
+#wpforms-739-field_2{
+    border-radius: 30px;
+}
+
+#wpforms-submit-739{
+    background-color: orange;
+    border-radius: 30px;
+    
+}/* End custom CSS */
